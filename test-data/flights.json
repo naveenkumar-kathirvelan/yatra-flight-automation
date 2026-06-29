@@ -1,0 +1,20 @@
+[
+  {
+    "from": "New York",
+    "to": "Sydney",
+    "departureDaysFromToday": 0,
+    "returnDaysFromToday": 7,
+    "travellers": { "adults": 3, "children": 0, "infants": 0 },
+    "cabinClass": "Economy",
+    "tripType": "round-trip"
+  },
+  {
+    "from": "Boston",
+    "to": "Amsterdam",
+    "departureDaysFromToday": 10,
+    "returnDaysFromToday": 30,
+    "travellers": { "adults": 5, "children": 0, "infants": 0 },
+    "cabinClass": "Economy",
+    "tripType": "round-trip"
+  }
+]

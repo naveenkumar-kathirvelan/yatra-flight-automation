@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Playwright
+playwright-report/
+test-results/
+blob-report/
+allure-results/
+allure-report/
+logs/
+*.log
+.DS_Store
+
+# Videos & Screenshots
+test-results/**
+*.png
+*.jpg
+*.jpeg
+*.webm
+*.mp4
+*.zip
+trace.zip
+
+# Build
+dist/
+build/
+out/
+
+# Cache
+.cache/
+.npm/
+.vscode/settings.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
